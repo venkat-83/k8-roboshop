@@ -10,5 +10,5 @@ metadata:
 spec:
   containers:
   - name: debug # container name
-    image: venkat787/debug:v1 # by default it will get from docker hub
+    image: venkat787/debug:v1 
     
